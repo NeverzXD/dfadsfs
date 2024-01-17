@@ -1,3 +1,5 @@
+print("XXXX")
+
 if Nexus then Nexus:Stop() end
 
 if not game:IsLoaded() then
